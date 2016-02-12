@@ -1,0 +1,14 @@
+{
+  "name": "pokeapi",
+  "homepage": "https://github.com/phalt/pokeapi",
+  "_release": "29583e8461",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "29583e8461131a7c6b9a8272d32ca338591bb66d"
+  },
+  "_source": "https://github.com/phalt/pokeapi.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/phalt/pokeapi.git",
+  "_direct": true
+}
